@@ -1,4 +1,4 @@
-# State Machine Design — Yamada Bee Farm Multi-Agent Voice System
+# State Machine Design — Multi-Agent Voice System
 
 This document covers the current state machine implementation and three proposed production-level alternatives. Each section includes a Mermaid diagram, data structure, and explanation of how it works within the LiveKit multi-agent workflow.
 
